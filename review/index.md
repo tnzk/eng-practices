@@ -1,6 +1,7 @@
-# Code Review Developer Guide
+# 開発者のコードレビューガイド
 
-## Introduction {#intro}
+## はじめに {#intro}
+
 
 A code review is a process where someone other than the author(s) of a piece of
 code examines that code.

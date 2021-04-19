@@ -6,23 +6,18 @@ best practices that we have developed over time. It is possible that open source
 projects or other organizations would benefit from this knowledge, so we work to
 make it available publicly when possible.
 
-Currently this contains the following documents:
+今のところ、次の文書を含みます:
 
-*   [Google's Code Review Guidelines](review/index.md), which are actually two
-    separate sets of documents:
-    *   [The Code Reviewer's Guide](review/reviewer/index.md)
-    *   [The Change Author's Guide](review/developer/index.md)
+*   [Google コードレビューガイドライン](review/index.md)（以下の2の文書に分かれます）
+    *   [コードレビュア向けガイド](review/reviewer/index.md)
+    *   [開発者向けガイド](review/developer/index.md)
 
-## Terminology
+## 用語
 
-There is some Google-internal terminology used in some of these documents, which
-we clarify here for external readers:
+この文書の中では、Googleの内部用語をいくつか使っています。組織外の読者向けの説明は次の通りです:
 
-*   **CL**: Stands for "changelist", which means one self-contained change that
-    has been submitted to version control or which is undergoing code review.
-    Other organizations often call this a "change", "patch", or "pull-request".
-*   **LGTM**: Means "Looks Good to Me". It is what a code reviewer says when
-    approving a CL.
+*   **CL**: "changelist" の略です。バージョン管理システムに送信されたか、あるいは今コードレビューを受けている最中の、ひとまとまりの変更のことをいいます。様々な組織で"変更", "パッチ", "プルリク"と呼ばれたりするものです。
+*   **LGTM**: "Looks Good to Me"（良い感じに見えます）の意味です。コードレビュアーがCLを承認するときに使う言葉です。
 
 ## License
 

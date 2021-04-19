@@ -1,10 +1,6 @@
-# How to do a code review
+# コードレビューのやり方
 
-The pages in this section contain recommendations on the best way to do code
-reviews, based on long experience. All together they represent one complete
-document, broken up into many separate sections. You don't have to read them
-all, but many people have found it very helpful to themselves and their team to
-read the entire set.
+このセクションにある各ページでは、Googleでの長い経験を元にした、コードレビューのベストプラクティスを紹介します。すべてのページを合わせて、ページごとのセクションからなる一つの文書となっています。すべてを読む必要はありませんが、全体を読むことが自分やチームにとってとても役に立ったと、多くの人が言っています。
 
 -   [The Standard of Code Review](standard.md)
 -   [What to Look For In a Code Review](looking-for.md)
